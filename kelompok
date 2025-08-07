@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tentang Kelompok kami</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .profile {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 20px;
+            margin-bottom: 15px;
+        }
+        .profile-info {
+            flex: 1;
+            min-width: 300px;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #E1306C;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tentang Kami</h1>
+
+    <!-- Profil 1 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Sarah</h2>
+            <p>Halo! Saya Sarah, seorang desainer grafis dengan pengalaman 5 tahun di industri kreatif. Saya sangat menyukai seni visual dan selalu mencari inspirasi dari sekitar.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Menggambar ilustrasi digital</li>
+                <li>Fotografi jalanan</li>
+                <li>Membaca novel fiksi</li>
+                <li>Berkebun</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/sarah_design" target="_blank">@sarah_design</a></p>
+        </div>
+    </div>
+
+    <!-- Profil 2 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Rizky</h2>
+            <p>Saya Rizky, seorang software engineer yang antusias dengan teknologi terbaru. Saya menikmati memecahkan masalah kompleks dan membangun aplikasi yang bermanfaat.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Programming side projects</li>
+                <li>Bermain game strategi</li>
+                <li>Hiking di gunung</li>
+                <li>Mempelajari bahasa baru</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/rizky_coder" target="_blank">@rizky_coder</a></p>
+        </div>
+    </div>
+
+    <!-- Profil 3 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Dian</h2>
+            <p>Saya Dian, seorang guru matematika yang passionate tentang pendidikan. Saya percaya setiap siswa bisa memahami matematika dengan pendekatan yang tepat.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Mengajar les privat</li>
+                <li>Memecahkan teka-teki matematika</li>
+                <li>Memasak makanan tradisional</li>
+                <li>Bersepeda</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/dian_math" target="_blank">@dian_math</a></p>
+        </div>
+    </div>
+
+    <!-- Profil 4 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/men/54.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Adi</h2>
+            <p>Saya Adi, seorang content creator yang fokus pada video perjalanan dan kuliner. Saya suka berbagi pengalaman traveling dan mencoba makanan lokal di berbagai daerah.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Traveling ke tempat baru</li>
+                <li>Membuat video dokumenter</li>
+                <li>Mencoba resep masakan baru</li>
+                <li>Bermain gitar</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/adi.wanderer" target="_blank">@adi.wanderer</a></p>
+        </div>
+    </div>
+
+    <!-- Profil 5 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/women/28.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Lina</h2>
+            <p>Saya Lina, seorang dokter umum yang sedang mengejar spesialisasi di bidang pediatri. Saya sangat mencintai pekerjaan saya dan senang bisa membantu orang lain.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Membaca jurnal medis terbaru</li>
+                <li>Volunteer di komunitas kesehatan</li>
+                <li>Yoga dan meditasi</li>
+                <li>Menonton film dokumenter</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/dr.lina" target="_blank">@dr.lina</a></p>
+        </div>
+    </div>
+
+    <!-- Profil 6 -->
+    <div class="profile">
+        <img src="https://randomuser.me/api/portraits/men/76.jpg" alt="Foto Profil" class="profile-img">
+        <div class="profile-info">
+            <h2>Tentang Saya - Fajar</h2>
+            <p>Saya Fajar, seorang atlet bulutangkis semi-profesional dan pelatih di klub lokal. Olahraga adalah passion saya sejak kecil dan saya ingin menginspirasi generasi muda.</p>
+            <h3>Hobi:</h3>
+            <ul>
+                <li>Bermain bulutangkis</li>
+                <li>Melatih anak-anak</li>
+                <li>Mengikuti turnamen</li>
+                <li>Bermain catur</li>
+            </ul>
+            <p>Instagram: <a href="https://instagram.com/fajar_shuttle" target="_blank">@fajar_shuttle</a></p>
+        </div>
+    </div>
+</body>
+</html>
